@@ -1,0 +1,92 @@
+
+.container-img{
+  min-height: 600px;
+  background-image: url(./img/IGrzIxlfue\ 1.png);
+  background-size: cover;
+}
+.container-img .container{
+  width: 90%;
+  min-height: 400px;
+  display: flex; 
+  justify-content: center;
+}
+.button-1{
+  border-radius: 5px;
+  background: #F6762C;
+  width: 165px;
+  height: 49px;
+  flex-shrink: 0;
+}
+.ustun-1{
+  margin-top: 210px;
+}
+.card-img{
+  width: 100%;
+  min-height: 400px;
+background: #1C1C1C;
+}
+.card-img .col-3{
+  width: 250px;
+  min-height: 300px;
+  border-radius: 10px;
+  background: #312F30;
+  }
+.burger-king{
+  width: 100%;
+  min-height: 500px;
+  background: #312F30;
+}
+.img-cards-2{
+  width: 100%;
+  min-height: 600px;
+}
+.img-1{
+  width: 400px;
+  height: 220px;
+  background-image: url(./img-3/Mask\ Group.png);
+  background-size: cover;
+  border-radius: 10px;
+}
+.img-2{
+  width: 400px;
+  height: 220px;
+  background-color: #312F30;
+  background-image: url(./img-3/Mask\ Group\ \(1\).png);
+  background-size: cover;
+  border-radius: 10px;
+  
+}
+.img-3{
+  width: 400px;
+  height: 220px;
+  background-color: #312F30;
+  background-image: url(./img-3/CDSDQwsqfD\ 1.png);
+  background-size: cover;
+  border-radius: 10px;
+  
+}
+.img-4{
+  width: 400px;
+  height: 220px;
+  background-color: #312F30;
+  background-image: url(./img-3/Mask\ Group\ \(3\).png);
+  background-size: cover;
+  border-radius: 10px;
+  
+}
+.button-2{
+  width: 100px;
+height: 30px;
+font-size: 11px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #F6762C;
+}
+.font-size{
+  font-size: 13px;
+}
+.download{
+  width: 100%;
+  height: 110px;
+  background: #312F30;
+}
